@@ -11,26 +11,75 @@ author_profile: true
 
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<p align="justify" style="line-height: 150%">&nbsp;&nbsp; <b>
+<font face="Times New Roman"><a name="Journal"></a><font size="4">Journal Article</font></font></b></p>
+<ul>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-B. Jia, J.-Y. Liu, <u>
+	M.-L. Zhang</u>. <a href="files/TNNLS'24.pdf">Instance-specific 
+	loss-weighted decoding for decomposition-based multi-class classification</a>.
+	<b>IEEE Transactions on Neural Networks and Learning Systems</b>, <i>in 
+	press</i>. [<a href="files/ILW.zip">code</a>]</font></span></li>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-Q. Liu, B.-B. Jia, <u>
+	M.-L. Zhang</u>. <a href="files/TPAMI'23.pdf">Towards enabling binary 
+	decomposition for partial multi-label learning</a>. <b>IEEE Transactions on Pattern Analysis and Machine 
+	Intelligence</b>, 2023, 45(11): 13203-13217. [<a href="files/PAMB.rar">code</a>]</font></span></li>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-B. Jia, <u>M.-L. Zhang</u>.
+	<a href="files/TKDE'21.pdf">Multi-dimensional classification via decomposed 
+	label encoding</a>. <b>IEEE Transactions on Knowledge and Data Engineering</b>,
+	2023, 35(2): 1844-1856. [<a href="Resources.htm#tkde21">code</a>] [<a href="Resources.htm#MDC_data">data</a>]</font></span></li>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-B. Jia, <u>M.-L. Zhang</u>.
+	<a href="files/PRJ'23.pdf">Multi-dimensional multi-label classification: 
+	Towards encompassing heterogeneous label spaces and multi-label annotations</a>.
+	<b>Pattern Recognition</b>, 2023, 138: Article 109357. [<a href="files/CLIM.rar">code</a>]</font></span></li>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-B. Jia, J.-Y. Liu, J.-Y. 
+	Hang, <u>M.-L. Zhang</u>. <a href="files/FCS'23.pdf">Learning label-specific 
+	features for decomposition-based multi-class classification</a>. <b>Frontiers of Computer Science</b>, 
+	2023, 17(6): Article 176348. [<a href="files/LSFMultiClass.rar">code</a>]</font></span></li>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-B. Jia, <u>M.-L. Zhang</u>.
+	<a href="files/TNNLS'21.pdf">Maximum margin multi-dimensional classification</a>.
+	<b>IEEE Transactions on Neural Networks and Learning Systems</b>, 2022, 
+	33(12): 7185-7198. [<a href="files/AAAI'20a.pdf">Conference version</a>] [<a href="Resources.htm#tnnls21">code</a>] 
+	[<a href="Resources.htm#MDC_data">data</a>]</font></span></li>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-B. Jia, <u>M.-L. Zhang</u>.
+	<a href="files/TAI'21.pdf">Decomposition-based classifier chains for 
+	multi-dimensional classification</a>. <b>IEEE Transactions on Artificial 
+	Intelligence</b>, 2022, 3(2): 176-191. [<a href="Resources.htm#tai21">code</a>] 
+	[<a href="Resources.htm#MDC_data">data</a>]</font></span></li>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-B. Jia, <u>M.-L. Zhang</u>. 
+	<a href="files/IJAC'21.pdf">Multi-dimensional classification via selective feature augmentation</a>. 
+	<b>Machine Intelligence Research</b>, 2022, 19(1): 38-51. 
+	[<a href="Resources.htm#ijac21">code</a>]</font></span></li>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-B. Jia, <u>M.-L. Zhang</u>.
+	<a href="files/SCIS'20.pdf">Multi-dimensional classification via stacked 
+	dependency exploitation</a>. <b>Science China Information Sciences</b>, 
+	2020, 63(12): Article 222102.&nbsp; [<a href="Resources.htm#scis20">code</a>] 
+	[<a href="Resources.htm#MDC_data">data</a>]</font></span></li>
+	<li>
+	<p align="justify" style="line-height: 150%; margin-top:8px; margin-bottom:0">
+	<span lang="en-us"><font face="Times New Roman">B.-B. Jia, <u>M.-L. Zhang</u>.
+	<a href="files/PRJ'20.pdf">Multi-dimensional classification via <i>k</i>NN 
+	feature augmentation</a>. <b>Pattern Recognition</b>, 2020, 106: Article 
+	107423. [<a href="files/AAAI'19b.pdf">Conference 
+	version</a>] [<a href="Resources.htm#prj20">code</a>] [<a href="Resources.htm#MDC_data">data</a>]</font></span></li>
+</ul>
 
 
 
