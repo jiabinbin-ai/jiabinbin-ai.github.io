@@ -33,4 +33,5 @@ TPAMI, TNNLS, TCYB, PRJ, MLJ, SCIS, FCS, etc.
 Contact Information
 ------
 Email: jiabinbin1988AT163.com (preferred) or  jiabinbinATlut.edu.cn (available)
+
 Note: Please replace "AT" with "@". Besides, jiabb@seu.edu.cn is no longer available.
