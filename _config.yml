@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Bin-Bin Jia / Personal Homepage"
+title                    : "Dr. JIA's Homepage"
 title_separator          : "-"
 name                     : &name "Bin-Bin JIA"
 description              : &description "Ph.D., Associate Professor"
@@ -22,7 +22,7 @@ repository               : "jiabinbin-ai/jiabinbin-ai.github.io"
 author:
   # Biographic information
   avatar           : "MyPhoto.png"
-  name             : "Bin-Bin JIA"
+  name             : "Bin-Bin JIA (贾彬彬)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D., Associate Professor"
   location         : "Lanzhou, China"
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
