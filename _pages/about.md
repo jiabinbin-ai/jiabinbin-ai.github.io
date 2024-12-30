@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at the [College of Electrical and Information Engineering](https://dianqi.lut.edu.cn/), [Lanzhou University of Technology](https://www.lut.edu.cn/), China. I have been working here since 2013 after graduating from the [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I received my Master's degree. From September 2017 to March 2022, I studied at the [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), and received my PhD degree. I received my bachelor degree in electronic information science and technology at the [Department of Electronic and Communication Engineering](https://dece.ncepu.edu.cn/), [North China Electric Power University](https://net.ncepu.edu.cn/), in 2010.
+I am an associate professor at the [College of Electrical and Information Engineering](https://dianqi.lut.edu.cn/), [Lanzhou University of Technology](https://www.lut.edu.cn/), China. I have been working here since 2013 after graduating from the [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I received my Master's degree. From September 2017 to March 2022, I studied at the [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), and received my Doctoral degree. I received my Bachelor's degree in electronic information science and technology at the [Department of Electronic and Communication Engineering](https://dece.ncepu.edu.cn/), [North China Electric Power University](https://net.ncepu.edu.cn/), in 2010.
 
 
 **中文个人简介**: [电信学院](https://dianqi.lut.edu.cn/info/1151/8874.htm), [学者网](https://www.scholat.com/jiabinbin)
@@ -20,7 +20,7 @@ My research interests mainly include artificial intelligence and machine learnin
 Publication List
 ------
 
-My publications can be found at:
+[My publications](https://jiabinbin-ai.github.io/publications/) can be found at:
 
 1、[Google Scholar](https://scholar.google.com/citations?hl=en&user=ms6BTK4AAAAJ)
 
@@ -44,7 +44,9 @@ Academic Service
 For Future Students (招生说明)
 ------
 
-课题组主要从事机器学习算法研究，若有意到本组学习，可提前打好如下基础：
+Looking for highly motivated undergraduate or postgraduate students aiming to perform Bachelor or Master thesis. 
+
+若有意在本人指导下学习，可提前打好如下基础：
 
 1、编程：Python或Matlab（二选一，都会更好）
 
