@@ -39,12 +39,12 @@ Academic Service
 
 2、Journal reviewer
 
-[TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [TIST](https://dl.acm.org/journal/tist), [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence), [PRJ](https://www.sciencedirect.com/journal/pattern-recognition), [MLJ](https://link.springer.com/journal/10994), [SCIS](http://scis.scichina.com/), [FCS](https://journal.hep.com.cn/fcs/EN/2095-2228/home.shtml), etc.
+[TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34), [TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385), [TCYB](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221036), [TCSVT](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76), [TIST](https://dl.acm.org/journal/tist), [TOIS](https://dl.acm.org/journal/tois), [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence), [PRJ](https://www.sciencedirect.com/journal/pattern-recognition), [MLJ](https://link.springer.com/journal/10994), [SCIS](http://scis.scichina.com/), [FCS](https://journal.hep.com.cn/fcs/EN/2095-2228/home.shtml), etc.
 
 For Future Students (招生说明)
 ------
 
-Looking for highly motivated undergraduate or postgraduate students aiming to perform Bachelor or Master thesis. 
+Looking for highly motivated undergraduate or postgraduate students aiming to perform Bachelor or Master thesis. [常见问题汇总](https://jiabinbin-ai.github.io/For-Students/)
 
 若有意在本人指导下学习，可提前打好如下基础：
 
