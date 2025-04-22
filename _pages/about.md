@@ -44,7 +44,7 @@ Academic Service
 For Future Students (招生说明)
 ------
 
-Looking for highly motivated undergraduate or postgraduate students aiming to perform Bachelor or Master thesis. [[**常见问题汇总**]](https://jiabinbin-ai.github.io/For-Students/)
+Looking for highly motivated undergraduate or postgraduate students aiming to perform Bachelor or Master thesis. [[**常见问题汇总**](https://jiabinbin-ai.github.io/For-Students/)]
 
 若有意在本人指导下学习，可提前打好如下基础：
 
