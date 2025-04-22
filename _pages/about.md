@@ -44,7 +44,7 @@ Academic Service
 For Future Students (招生说明)
 ------
 
-Looking for highly motivated undergraduate or postgraduate students aiming to perform Bachelor or Master thesis. [常见问题汇总](https://jiabinbin-ai.github.io/For-Students/)
+Looking for highly motivated undergraduate or postgraduate students aiming to perform Bachelor or Master thesis. [[**常见问题汇总**]](https://jiabinbin-ai.github.io/For-Students/)
 
 若有意在本人指导下学习，可提前打好如下基础：
 
@@ -76,4 +76,4 @@ Contact Information
 Useful Links
 ------
 
-[JMLR](https://jmlr.org/), [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp), [Springer](https://link.springer.com/), [Elsevier](https://www.sciencedirect.com/), [万方](https://c.wanfangdata.com.cn/periodical), [知网](https://www.cnki.net/) 
+[JMLR](https://jmlr.org/), [PLMR](http://proceedings.mlr.press/), [NeurIPS](https://proceedings.neurips.cc/), [AAAI](https://aaai.org/aaai-publications/aaai-conference-proceedings/), [IJCAI](https://www.ijcai.org/all_proceedings/), [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp), [Springer](https://link.springer.com/), [Elsevier](https://www.sciencedirect.com/), [WoS](http://www.webofknowledge.com/), [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/), [万方](https://c.wanfangdata.com.cn/periodical), [知网](https://www.cnki.net/) 
