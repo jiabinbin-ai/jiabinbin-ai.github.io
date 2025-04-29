@@ -81,6 +81,6 @@ Useful Links
 ------
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
-本站总访问量<span id="busuanzi_value_site_pv"></span>次</span><br>
+<span id="busuanzi_container_site_pv">本站总访问量<span id="busuanzi_value_site_pv"></span>次</span>
 
 <a href="https://clustrmaps.com/site/1c5si"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=a_dIcJItb0orS1llLx_VqVh-XtN1CdWN6BBX_0DOCuE&cl=ffffff" /></a>
