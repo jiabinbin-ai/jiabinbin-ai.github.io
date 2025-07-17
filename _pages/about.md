@@ -60,7 +60,7 @@ Looking for highly motivated undergraduate or postgraduate students aiming to pe
 
 3、研究领域现状，可阅读以下两篇综述：
 
-[1] B.-B. Jia, M.-L. Zhang. [Multi-dimensional classification: paradigm, algorithms and beyond](https://doi.org/10.1007/s44336-024-00004-7). *Vicinagearth*, vol. 1, no. 1, 2024, Art. no. 3. 
+[1] B.-B. Jia, M.-L. Zhang. [Multi-dimensional classification: paradigm, algorithms and beyond](https://doi.org/10.1007/s44336-024-00004-7). *Vicinagearth*, vol. 1, no. 1, 2024, Art. no. 3. [[Paper List](https://github.com/jiabinbin-ai/articles-on-MDC/)]
 
 [2] M.-L. Zhang, Z.-H. Zhou. [A review on multi-label learning algorithms](https://doi.org/10.1109/TKDE.2013.39). *IEEE Transactions on Knowledge and Data Engineering*, vol.26, no.8, pp.1819-1837, 2014.
 
