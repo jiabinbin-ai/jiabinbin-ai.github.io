@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at the [College of Electrical and Information Engineering](https://dianqi.lut.edu.cn/), [Lanzhou University of Technology](https://www.lut.edu.cn/), China. I have been working here since 2013 after graduating from the [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I received my Master's degree. From September 2017 to March 2022, I studied at the [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), and received my Doctoral degree. I received my Bachelor's degree in electronic information science and technology at the [Department of Electronic and Communication Engineering](https://dece.ncepu.edu.cn/), [North China Electric Power University](https://net.ncepu.edu.cn/), in 2010.
+I am an associate professor at [Lanzhou University of Technology](https://www.lut.edu.cn/), China. I have been working here since 2013 after graduating from the [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I received my Master's degree. From September 2017 to March 2022, I studied at the [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), and received my Doctoral degree. I received my Bachelor's degree in electronic information science and technology at the [Department of Electronic and Communication Engineering](https://dece.ncepu.edu.cn/), [North China Electric Power University](https://net.ncepu.edu.cn/), in 2010.
 
 
-**中文个人简介**: [电信学院](https://dianqi.lut.edu.cn/info/1151/8874.htm), [学者网](https://www.scholat.com/jiabinbin)
+**中文个人简介**: [学院介绍](https://dianqi.lut.edu.cn/info/1305/9597.htm), [学者网](https://www.scholat.com/jiabinbin)
 
 Research Interests
 ------
@@ -22,20 +22,14 @@ Publication List
 
 [My publications](https://jiabinbin-ai.github.io/publications/) can be found at:
 
-1、[Google Scholar](https://scholar.google.com/citations?hl=en&user=ms6BTK4AAAAJ)
-
-2、[Semantic Scholar](https://www.semanticscholar.org/author/Bin-Bin-Jia/66683124)
-
-3、[DBLP](https://dblp.uni-trier.de/pid/245/3634.html)
-
-4、[ResearchGate](https://www.researchgate.net/profile/Bin-Bin-Jia)
+[[Google Scholar](https://scholar.google.com/citations?hl=en&user=ms6BTK4AAAAJ)], [[Semantic Scholar](https://www.semanticscholar.org/author/Bin-Bin-Jia/66683124)], [[DBLP](https://dblp.uni-trier.de/pid/245/3634.html)], [[ResearchGate](https://www.researchgate.net/profile/Bin-Bin-Jia)]
 
 Academic Service
 ------
 
 1、PC member
 
-[ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [ICLR](https://iclr.cc/), [AAAI](https://aaai.org/conference/aaai/), [IJCAI](https://www.ijcai.org/), [KDD](https://kdd.org/conferences), [ECML-PKDD](https://ecmlpkdd.org/), [ICPR](https://iapr.org/conferences/international-conference-on-pattern-recognition/), [PRCV](http://www.prcv.cn/), etc.
+[ICML](https://icml.cc/), [NeurIPS](https://neurips.cc/), [ICLR](https://iclr.cc/), [AAAI](https://aaai.org/conference/aaai/), [IJCAI](https://www.ijcai.org/), [KDD](https://kdd.org/conferences), [ECML](https://ecmlpkdd.org/), [ECAI](https://www.eurai.org/ecai), [ICPR](https://iapr.org/conferences/international-conference-on-pattern-recognition/), [PRCV](http://www.prcv.cn/), etc.
 
 2、Journal reviewer
 
@@ -67,7 +61,7 @@ Looking for highly motivated undergraduate or postgraduate students aiming to pe
 Contact Information
 ------
 
-**Address**: College of Electrical and Information Engineering, Pengjiaping Campus of Lanzhou University of Technology, No.36, Pengjiaping Road, Qilihe District, Lanzhou City, Gansu Province, China
+**Address**: Pengjiaping Campus of Lanzhou University of Technology, No.36, Pengjiaping Road, Qilihe District, Lanzhou City, Gansu Province, China
 
 **E-mail**: jiabinbin1988AT163.com (preferred) or jiabinbinATlut.edu.cn (available)
 
