@@ -10,7 +10,7 @@ redirect_from:
 I am an associate professor at [Lanzhou University of Technology](https://www.lut.edu.cn/), China. I have been working here since 2013 after graduating from the [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/), where I received my Master's degree. From September 2017 to March 2022, I studied at the [School of Computer Science and Engineering](https://cse.seu.edu.cn/), [Southeast University](https://www.seu.edu.cn/), and received my Doctoral degree. I received my Bachelor's degree in electronic information science and technology at the [Department of Electronic and Communication Engineering](https://dece.ncepu.edu.cn/), [North China Electric Power University](https://net.ncepu.edu.cn/), in 2010.
 
 
-**中文个人简介**: [学院介绍](https://dianqi.lut.edu.cn/info/1305/9597.htm), [学者网](https://www.scholat.com/jiabinbin)
+[**中文个人简介**](https://jiabinbin-ai.github.io/bio_cn/)
 
 Research Interests
 ------
