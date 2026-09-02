@@ -38,25 +38,9 @@ Academic Service
 For Future Students (招生说明)
 ------
 
-Looking for highly motivated undergraduate or postgraduate students aiming to perform Bachelor or Master thesis. [[**常见问题汇总**](https://jiabinbin-ai.github.io/For-Students/)]
+Looking for highly motivated undergraduate or postgraduate students aiming to perform Bachelor or Master thesis.
 
-若有意在本人指导下学习，可提前打好如下基础：
-
-1、编程：Python或Matlab（二选一，都会更好）
-
-2、机器学习基础，可结合如下资料学习：
-
-**教材**：周志华. 机器学习. 北京: 清华大学出版社, 2016.
-
-**教辅**：谢文睿, 秦州, 贾彬彬.  机器学习公式详解(第2版). 北京: 人民邮电出版社, 2023.
-
-**课程**：机器学习初步@学堂在线，https://www.xuetangx.com/course/nju0802bt/
-
-3、研究领域现状，可阅读以下两篇综述：
-
-[1] B.-B. Jia, M.-L. Zhang. [Multi-dimensional classification: paradigm, algorithms and beyond](https://doi.org/10.1007/s44336-024-00004-7). *Vicinagearth*, vol. 1, no. 1, 2024, Art. no. 3. [[Paper List](https://github.com/jiabinbin-ai/articles-on-MDC/)][[Data](https://palm.seu.edu.cn/zhangml/Resources.htm#MDC_data)]
-
-[2] M.-L. Zhang, Z.-H. Zhou. [A review on multi-label learning algorithms](https://doi.org/10.1109/TKDE.2013.39). *IEEE Transactions on Knowledge and Data Engineering*, vol.26, no.8, pp.1819-1837, 2014.
+这是[[**常见问题汇总**](https://jiabinbin-ai.github.io/For-Students/)]和[[**入组基础**](https://jiabinbin-ai.github.io/preparation/)]，如果确认自己适合本课题组，请发邮件与我联系，来信请附个人简历.
 
 Contact Information
 ------
